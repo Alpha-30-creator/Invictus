@@ -1,0 +1,41 @@
+body{
+  font-family: Montserrat;
+  margin: 0px;
+  background-image: url(bg.jpg);
+}
+#header{
+  background-color: black;
+  color: white;
+  display: block;
+  font-size: 2.5vw;
+  font-weight: bold;
+  padding: 10px;
+}
+#login{
+  text-align: center;
+  padding-top: 100px;
+}
+form{
+  margin-top: 0px;
+  padding: 0px 10px 20px 10px;
+  border-style: inset;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #f7f2f2;
+  display: inline-block;
+  background-color: black;
+  color: white;
+}
+input{
+  border-radius: 10px;
+  margin: 5px;
+  padding: 5px;
+}
+#submit{
+  padding: 5px 70px;
+  font-size: 1vw;
+}
+img{
+  display: block;
+  text-align: center;
+}
